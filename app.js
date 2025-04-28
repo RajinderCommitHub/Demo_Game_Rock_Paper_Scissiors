@@ -4,7 +4,7 @@ var message = document.querySelector("#msg");
 
 const draw = ()=>{
     console.log("This Is draw");
-    message.innerText=" Game Was Draw! Play Again";
+    message.innerText="Game Was Draw! Play Again";
     message.style.backgroundColor="#081b31";
 }
 
